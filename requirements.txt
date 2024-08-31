@@ -1,0 +1,7 @@
+torch
+transformers
+evaluate
+datasets
+scikit-learn
+black
+isort
