@@ -1,6 +1,7 @@
 # Korean Conversation Context Inference
 - [인공지능(AI)말평 대화맥락추론(가 유형)](https://kli.korean.go.kr/benchmark/taskOrdtm/taskList.do?taskOrdtmId=144&clCd=END_TASK&subMenuId=sub01) 제출코드
 - [모델링크](https://huggingface.co/LostCow/POLAR-14B-dialogue-inference)
+- 이전에 데이터를 실수로 올려서, 레포 삭제후 다시 만들었습니다.
 
 ## 실행방법
 ### 환경설정
